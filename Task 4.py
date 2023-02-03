@@ -21,5 +21,3 @@ for i in range(0, len(my_list), 2):
     a.reverse()
     new_list.extend(a)
 print(new_list) # Как в примере не получается, что бы без скобок было. Мозгов не хватает.
-
-
